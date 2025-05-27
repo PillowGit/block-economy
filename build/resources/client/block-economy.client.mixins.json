@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "block.economy.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
