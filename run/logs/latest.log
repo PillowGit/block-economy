@@ -1,5 +1,5 @@
-[02:48:14] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[02:48:14] [main/INFO] (FabricLoader) Loading 48 mods:
+[18:15:33] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[18:15:33] [main/INFO] (FabricLoader) Loading 48 mods:
 	- block-economy 1.0.0
 	- fabric-api 0.124.2+1.21.5
 	- fabric-api-base 0.4.62+73a52b4b49
@@ -48,47 +48,44 @@
 	- mixinextras 0.4.1
 	- tectonic 3.0.0+beta4
 	- terralith 2.5.9
-[02:48:17] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/pillow/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/22f9eb729e216a091673a574a5906dc1b9027fb3/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:48:17] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[02:48:17] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[02:48:17] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02:48:21] [main/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:48:22] [main/WARN] (Minecraft) Creating a MAX function between two non-overlapping inputs: RegistryEntryHolder[function=Direct{dev.worldgen.lithostitched.worldgen.densityfunction.WrappedMarkerDensityFunction@6ef2ed8f}] and RegistryEntryHolder[function=Direct{Constant[value=-0.49]}]
-[02:48:23] [Worker-Main-3/INFO] (block-economy) Finished registering commands for block-economy!
-[02:48:23] [main/INFO] (Minecraft) Loaded 1379 recipes
-[02:48:23] [main/INFO] (Minecraft) Loaded 1485 advancements
-[02:48:23] [main/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 160 new biomes in 2.205 ms
-[02:48:23] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.21.5
-[02:48:23] [Server thread/INFO] (Minecraft) Loading properties
-[02:48:23] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
-[02:48:23] [Server thread/INFO] (Minecraft) Generating keypair
-[02:48:23] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:25565
-[02:48:23] [Server thread/INFO] (Minecraft) Using default channel type
-[02:48:23] [Server thread/INFO] (Minecraft) Preparing level "world"
-[02:48:24] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[02:48:27] [Worker-Main-3/INFO] (Minecraft) Preparing spawn area: 0%
-[02:48:27] [Worker-Main-3/INFO] (Minecraft) Preparing spawn area: 0%
-[02:48:27] [Worker-Main-3/INFO] (Minecraft) Preparing spawn area: 0%
-[02:48:27] [Worker-Main-3/INFO] (Minecraft) Preparing spawn area: 0%
-[02:48:27] [Worker-Main-3/INFO] (Minecraft) Preparing spawn area: 0%
-[02:48:27] [Worker-Main-3/INFO] (Minecraft) Preparing spawn area: 0%
-[02:48:27] [Server thread/INFO] (Minecraft) Time elapsed: 2900 ms
-[02:48:27] [Server thread/INFO] (Minecraft) Done (3.377s)! For help, type "help"
-[02:48:27] [Server thread/WARN] (TranslationConventionLogWarnings) 
+[18:15:36] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/pillow/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/22f9eb729e216a091673a574a5906dc1b9027fb3/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:15:36] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[18:15:36] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[18:15:36] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[18:15:36] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:15:40] [main/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:15:40] [main/WARN] (Minecraft) Creating a MAX function between two non-overlapping inputs: RegistryEntryHolder[function=Direct{dev.worldgen.lithostitched.worldgen.densityfunction.WrappedMarkerDensityFunction@7a638c22}] and RegistryEntryHolder[function=Direct{Constant[value=-0.49]}]
+[18:15:40] [Worker-Main-3/INFO] (block-economy) Finished registering commands for block-economy!
+[18:15:41] [main/INFO] (Minecraft) Loaded 1379 recipes
+[18:15:41] [main/INFO] (Minecraft) Loaded 1485 advancements
+[18:15:41] [main/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 160 new biomes in 1.328 ms
+[18:15:41] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.21.5
+[18:15:41] [Server thread/INFO] (Minecraft) Loading properties
+[18:15:41] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
+[18:15:41] [Server thread/INFO] (Minecraft) Generating keypair
+[18:15:41] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:25565
+[18:15:41] [Server thread/INFO] (Minecraft) Using default channel type
+[18:15:41] [Server thread/INFO] (Minecraft) Preparing level "world"
+[18:15:41] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[18:15:43] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
+[18:15:43] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
+[18:15:43] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
+[18:15:43] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
+[18:15:43] [Server thread/INFO] (Minecraft) Time elapsed: 1916 ms
+[18:15:43] [Server thread/INFO] (Minecraft) Done (2.183s)! For help, type "help"
+[18:15:43] [Server thread/WARN] (TranslationConventionLogWarnings) 
 	Dev warning - Untranslated Item Tags detected. Please translate your item tags so other mods such as recipe viewers can properly display your tag's name.
 	The format desired is tag.item.<namespace>.<path> for the translation key with slashes in path turned into periods.
 	To disable this message, set this system property in your runs: `-Dfabric-tag-conventions-v2.missingTagTranslationWarning=SILENCED`.
 	To see individual untranslated item tags found, set the system property to `-Dfabric-tag-conventions-v2.missingTagTranslationWarning=VERBOSE`.
 	Default is `SHORT`.
 
-[02:48:45] [User Authenticator #1/INFO] (Minecraft) UUID of player ItsPillow is 81dadf4b-b241-4691-a0a4-3d297751bf0a
-[02:48:45] [Server thread/INFO] (Minecraft) ItsPillow[/127.0.0.1:54684] logged in with entity id 12 at (96.3493097581388, 77.23583329225295, -52.675181077388785)
-[02:48:45] [Server thread/INFO] (Minecraft) ItsPillow joined the game
-[02:48:49] [Server thread/WARN] (Minecraft) Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
-[02:48:59] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Armorer'/211, l='ServerLevel[world]', x=102.14, y=68.00, z=-48.78] died, message: 'Armorer was killed'
-[02:49:06] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Armorer'/247, l='ServerLevel[world]', x=95.11, y=68.00, z=-55.56] died, message: 'Armorer was killed'
-[02:49:11] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Armorer'/261, l='ServerLevel[world]', x=80.90, y=81.63, z=-79.98] died, message: 'Armorer was killed'
-[02:49:24] [Server thread/INFO] (Minecraft) ItsPillow lost connection: Disconnected
-[02:49:24] [Server thread/INFO] (Minecraft) ItsPillow left the game
-[02:50:24] [Server thread/INFO] (Minecraft) Server empty for 60 seconds, pausing
-[02:53:12] [Server thread/INFO] (Minecraft) Stopping server
+[18:15:45] [User Authenticator #1/INFO] (Minecraft) UUID of player ItsPillow is 81dadf4b-b241-4691-a0a4-3d297751bf0a
+[18:15:46] [Server thread/INFO] (Minecraft) ItsPillow[/127.0.0.1:49742] logged in with entity id 26 at (94.37621698731851, 68.0, -68.73523672688286)
+[18:15:46] [Server thread/INFO] (Minecraft) ItsPillow joined the game
+[18:15:55] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Armorer'/199, l='ServerLevel[world]', x=87.25, y=70.00, z=-65.51] died, message: 'Armorer was killed'
+[18:16:10] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Armorer'/200, l='ServerLevel[world]', x=87.25, y=70.00, z=-65.51] died, message: 'Armorer was killed'
+[18:16:15] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Armorer'/204, l='ServerLevel[world]', x=87.25, y=70.00, z=-65.51] died, message: 'Armorer was killed'
+[18:16:18] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Armorer'/205, l='ServerLevel[world]', x=87.25, y=70.00, z=-65.51] died, message: 'Armorer was killed'
+[18:16:21] [Server thread/INFO] (Minecraft) ItsPillow lost connection: Disconnected
+[18:16:21] [Server thread/INFO] (Minecraft) ItsPillow left the game

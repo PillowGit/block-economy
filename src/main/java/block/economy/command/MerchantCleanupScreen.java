@@ -20,7 +20,7 @@ public class MerchantCleanupScreen extends MerchantScreenHandler {
     public void onClosed(PlayerEntity player) {
         super.onClosed(player);
         villager.setCustomer(null);
-        villager.teleport(0, 1000, 0, false);
+        villager.teleport(0, 200, 0, false);
         villager.kill(this.world);
     }
 }

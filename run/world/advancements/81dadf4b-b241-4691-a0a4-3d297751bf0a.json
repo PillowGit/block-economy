@@ -180,5 +180,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-08 17:45:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-08 17:45:49 -0700"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
