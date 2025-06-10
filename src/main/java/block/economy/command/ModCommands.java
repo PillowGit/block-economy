@@ -517,7 +517,7 @@ public class ModCommands {
                             ));
                             offers.add(new TradeOffer(
                                     new TradedItem(Items.EMERALD, 1),
-                                    new ItemStack(Items.RESIN_BRICK, 8),
+                                    new ItemStack(Items.RESIN_BRICKS, 8),
                                     99999,
                                     0,
                                     0.05f
@@ -531,7 +531,7 @@ public class ModCommands {
                             ));
                             offers.add(new TradeOffer(
                                     new TradedItem(Items.EMERALD, 1),
-                                    new ItemStack(Items.NETHER_BRICK, 8),
+                                    new ItemStack(Items.NETHER_BRICKS, 8),
                                     99999,
                                     0,
                                     0.05f
@@ -882,6 +882,13 @@ public class ModCommands {
                             ));
                             offers.add(new TradeOffer(
                                     new TradedItem(Items.EMERALD, 1),
+                                    new ItemStack(Items.MANGROVE_PROPAGULE, 1),
+                                    99999,
+                                    0,
+                                    0.05f
+                            ));
+                            offers.add(new TradeOffer(
+                                    new TradedItem(Items.EMERALD, 1),
                                     new ItemStack(Items.CHERRY_SAPLING, 1),
                                     99999,
                                     0,
@@ -997,6 +1004,13 @@ public class ModCommands {
                                     0.05f
                             ));
                             offers.add(new TradeOffer(
+                                    new TradedItem(Items.EMERALD_BLOCK, 5),
+                                    new ItemStack(Items.VILLAGER_SPAWN_EGG, 1),
+                                    99999,
+                                    0,
+                                    0.05f
+                            ));
+                            offers.add(new TradeOffer(
                                     new TradedItem(Items.EMERALD, 1),
                                     new ItemStack(Items.FIREWORK_ROCKET, 16),
                                     99999,
@@ -1011,7 +1025,7 @@ public class ModCommands {
                                     0.05f
                             ));
                             offers.add(new TradeOffer(
-                                    new TradedItem(Items.EMERALD, 32),
+                                    new TradedItem(Items.EMERALD_BLOCK, 5),
                                     new ItemStack(Items.TOTEM_OF_UNDYING, 1),
                                     99999,
                                     0,
@@ -1033,7 +1047,14 @@ public class ModCommands {
                             ));
                             offers.add(new TradeOffer(
                                     new TradedItem(Items.EMERALD, 1),
-                                    new ItemStack(Items.ITEM_FRAME, 1),
+                                    new ItemStack(Items.VINE, 8),
+                                    99999,
+                                    0,
+                                    0.05f
+                            ));
+                            offers.add(new TradeOffer(
+                                    new TradedItem(Items.EMERALD, 1),
+                                    new ItemStack(Items.ITEM_FRAME, 2),
                                     99999,
                                     0,
                                     0.05f
@@ -1041,6 +1062,13 @@ public class ModCommands {
                             offers.add(new TradeOffer(
                                     new TradedItem(Items.EMERALD, 1),
                                     new ItemStack(Items.FIREFLY_BUSH, 1),
+                                    99999,
+                                    0,
+                                    0.05f
+                            ));
+                            offers.add(new TradeOffer(
+                                    new TradedItem(Items.EMERALD, 1),
+                                    new ItemStack(Items.NAME_TAG, 1),
                                     99999,
                                     0,
                                     0.05f
