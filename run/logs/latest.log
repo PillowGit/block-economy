@@ -1,91 +1,75 @@
-[18:15:33] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[18:15:33] [main/INFO] (FabricLoader) Loading 48 mods:
-	- block-economy 1.0.0
-	- fabric-api 0.124.2+1.21.5
+[20:35:12] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[20:35:12] [main/INFO] (FabricLoader) Loading 44 mods:
+	- block-economy 1.1.0
+	- fabric-api 0.120.0+1.21.5
 	- fabric-api-base 0.4.62+73a52b4b49
-	- fabric-api-lookup-api-v1 1.6.96+86c3a9f149
+	- fabric-api-lookup-api-v1 1.6.95+86c3a9f149
 	- fabric-biome-api-v1 16.0.7+2dd063df49
 	- fabric-block-api-v1 1.0.37+86c3a9f149
 	- fabric-block-view-api-v2 1.0.26+aa6d566c49
 	- fabric-command-api-v1 1.2.70+f71b366f49
 	- fabric-command-api-v2 2.2.49+73a52b4b49
 	- fabric-commands-v0 0.2.87+df3654b349
-	- fabric-content-registries-v0 10.0.14+3e6c1f7d49
-	- fabric-convention-tags-v1 2.1.30+7f945d5b49
-	- fabric-convention-tags-v2 2.14.4+fca633a049
+	- fabric-content-registries-v0 10.0.12+3e6c1f7d49
+	- fabric-convention-tags-v1 2.1.29+7f945d5b49
+	- fabric-convention-tags-v2 2.14.3+fca633a049
 	- fabric-crash-report-info-v1 0.3.12+86c3a9f149
-	- fabric-data-attachment-api-v1 1.8.2+1aba48bb49
-	- fabric-data-generation-api-v1 22.4.0+ea72995749
+	- fabric-data-attachment-api-v1 1.6.7+3e6c1f7d49
+	- fabric-data-generation-api-v1 22.3.4+3e6c1f7d49
 	- fabric-dimensions-v1 4.0.17+3e6c1f7d49
 	- fabric-entity-events-v1 2.0.25+27c1078f49
 	- fabric-events-interaction-v0 4.0.13+73a52b4b49
 	- fabric-game-rule-api-v1 1.0.70+c327076a49
-	- fabric-gametest-api-v1 3.1.3+2a6ec84b49
-	- fabric-item-api-v1 11.4.1+e46fd76a49
-	- fabric-item-group-api-v1 4.2.9+3459fc6149
-	- fabric-lifecycle-events-v1 2.6.0+230071a049
-	- fabric-loot-api-v2 3.0.48+3f89f5a549
-	- fabric-loot-api-v3 1.0.36+86c3a9f149
+	- fabric-gametest-api-v1 3.1.2+2a6ec84b49
+	- fabric-item-api-v1 11.3.2+2ccdb6ef49
+	- fabric-item-group-api-v1 4.2.8+3459fc6149
+	- fabric-lifecycle-events-v1 2.5.13+5cbce67349
+	- fabric-loot-api-v2 3.0.47+3f89f5a549
+	- fabric-loot-api-v3 1.0.35+86c3a9f149
 	- fabric-message-api-v1 6.0.33+86c3a9f149
 	- fabric-networking-api-v1 4.4.0+f3ffa98949
-	- fabric-object-builder-api-v1 21.1.0+b8d6ba7049
-	- fabric-particles-v1 4.1.1+112e550e49
-	- fabric-recipe-api-v1 8.1.7+3235ab3249
+	- fabric-object-builder-api-v1 21.0.0+7b20cbb049
+	- fabric-particles-v1 4.1.0+ab7a462349
+	- fabric-recipe-api-v1 8.1.6+052a85d049
 	- fabric-registry-sync-v0 6.1.20+b556383249
 	- fabric-rendering-data-attachment-v1 0.3.64+73761d2e49
 	- fabric-rendering-fluids-v1 3.1.27+86c3a9f149
 	- fabric-resource-conditions-api-v1 5.0.21+73a52b4b49
-	- fabric-resource-loader-v0 3.1.7+847e5f5c49
+	- fabric-resource-loader-v0 3.1.6+02ca679649
 	- fabric-screen-handler-api-v1 1.3.127+c327076a49
-	- fabric-tag-api-v1 1.0.17+ecf51cdc49
-	- fabric-transfer-api-v1 5.4.24+7b20cbb049
+	- fabric-tag-api-v1 1.0.16+ecf51cdc49
+	- fabric-transfer-api-v1 5.4.23+7b20cbb049
 	- fabric-transitive-access-wideners-v1 6.3.17+f17a180c49
 	- fabricloader 0.16.14
 	- java 21
-	- lithostitched 1.4.8
-	- mes 1.4.3-1.21.5-fabric
 	- minecraft 1.21.5
 	- mixinextras 0.4.1
-	- tectonic 3.0.0+beta4
-	- terralith 2.5.9
-[18:15:36] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/Users/pillow/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/22f9eb729e216a091673a574a5906dc1b9027fb3/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:15:36] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[18:15:36] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
-[18:15:36] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[18:15:36] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18:15:40] [main/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:15:40] [main/WARN] (Minecraft) Creating a MAX function between two non-overlapping inputs: RegistryEntryHolder[function=Direct{dev.worldgen.lithostitched.worldgen.densityfunction.WrappedMarkerDensityFunction@7a638c22}] and RegistryEntryHolder[function=Direct{Constant[value=-0.49]}]
-[18:15:40] [Worker-Main-3/INFO] (block-economy) Finished registering commands for block-economy!
-[18:15:41] [main/INFO] (Minecraft) Loaded 1379 recipes
-[18:15:41] [main/INFO] (Minecraft) Loaded 1485 advancements
-[18:15:41] [main/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 160 new biomes in 1.328 ms
-[18:15:41] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.21.5
-[18:15:41] [Server thread/INFO] (Minecraft) Loading properties
-[18:15:41] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
-[18:15:41] [Server thread/INFO] (Minecraft) Generating keypair
-[18:15:41] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:25565
-[18:15:41] [Server thread/INFO] (Minecraft) Using default channel type
-[18:15:41] [Server thread/INFO] (Minecraft) Preparing level "world"
-[18:15:41] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[18:15:43] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
-[18:15:43] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
-[18:15:43] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
-[18:15:43] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
-[18:15:43] [Server thread/INFO] (Minecraft) Time elapsed: 1916 ms
-[18:15:43] [Server thread/INFO] (Minecraft) Done (2.183s)! For help, type "help"
-[18:15:43] [Server thread/WARN] (TranslationConventionLogWarnings) 
-	Dev warning - Untranslated Item Tags detected. Please translate your item tags so other mods such as recipe viewers can properly display your tag's name.
-	The format desired is tag.item.<namespace>.<path> for the translation key with slashes in path turned into periods.
-	To disable this message, set this system property in your runs: `-Dfabric-tag-conventions-v2.missingTagTranslationWarning=SILENCED`.
-	To see individual untranslated item tags found, set the system property to `-Dfabric-tag-conventions-v2.missingTagTranslationWarning=VERBOSE`.
-	Default is `SHORT`.
-
-[18:15:45] [User Authenticator #1/INFO] (Minecraft) UUID of player ItsPillow is 81dadf4b-b241-4691-a0a4-3d297751bf0a
-[18:15:46] [Server thread/INFO] (Minecraft) ItsPillow[/127.0.0.1:49742] logged in with entity id 26 at (94.37621698731851, 68.0, -68.73523672688286)
-[18:15:46] [Server thread/INFO] (Minecraft) ItsPillow joined the game
-[18:15:55] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Armorer'/199, l='ServerLevel[world]', x=87.25, y=70.00, z=-65.51] died, message: 'Armorer was killed'
-[18:16:10] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Armorer'/200, l='ServerLevel[world]', x=87.25, y=70.00, z=-65.51] died, message: 'Armorer was killed'
-[18:16:15] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Armorer'/204, l='ServerLevel[world]', x=87.25, y=70.00, z=-65.51] died, message: 'Armorer was killed'
-[18:16:18] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Armorer'/205, l='ServerLevel[world]', x=87.25, y=70.00, z=-65.51] died, message: 'Armorer was killed'
-[18:16:21] [Server thread/INFO] (Minecraft) ItsPillow lost connection: Disconnected
-[18:16:21] [Server thread/INFO] (Minecraft) ItsPillow left the game
+[20:35:13] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Pillow/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/22f9eb729e216a091673a574a5906dc1b9027fb3/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:35:13] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[20:35:13] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[20:35:13] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:35:18] [main/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:35:19] [Worker-Main-3/INFO] (block-economy) Finished registering commands for block-economy!
+[20:35:19] [main/INFO] (Minecraft) Loaded 1373 recipes
+[20:35:19] [main/INFO] (Minecraft) Loaded 1484 advancements
+[20:35:19] [main/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 65 new biomes in 1.221 ms
+[20:35:19] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.21.5
+[20:35:19] [Server thread/INFO] (Minecraft) Loading properties
+[20:35:19] [Server thread/INFO] (Minecraft) Default game type: CREATIVE
+[20:35:19] [Server thread/INFO] (Minecraft) Generating keypair
+[20:35:19] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:25565
+[20:35:19] [Server thread/INFO] (Minecraft) Using default channel type
+[20:35:19] [Server thread/INFO] (Minecraft) Preparing level "world"
+[20:35:19] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[20:35:20] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
+[20:35:20] [Server thread/INFO] (Minecraft) Time elapsed: 574 ms
+[20:35:20] [Server thread/INFO] (Minecraft) Done (0.805s)! For help, type "help"
+[20:35:21] [User Authenticator #1/INFO] (Minecraft) UUID of player ItsPillow is 81dadf4b-b241-4691-a0a4-3d297751bf0a
+[20:35:21] [Server thread/INFO] (Minecraft) ItsPillow[/127.0.0.1:49662] logged in with entity id 56 at (-135.23182841605146, 64.0, -93.92636662462134)
+[20:35:21] [Server thread/INFO] (Minecraft) ItsPillow joined the game
+[20:35:24] [Server thread/INFO] (Minecraft) Villager VillagerEntity['ItsPillow Villager'/1, l='ServerLevel[world]', x=-135.76, y=64.00, z=-95.80] died, message: 'ItsPillow Villager was slain by ItsPillow'
+[20:35:24] [Server thread/INFO] (Minecraft) Named entity VillagerEntity['ItsPillow Villager'/1, l='ServerLevel[world]', x=-135.76, y=64.00, z=-95.80] died: ItsPillow Villager was slain by ItsPillow
+[20:35:28] [Server thread/INFO] (Minecraft) [ItsPillow: Summoned new Weaponsmith]
+[20:35:33] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Weaponsmith'/235, l='ServerLevel[world]', x=-137.84, y=64.00, z=-93.43] died, message: 'Weaponsmith was slain by ItsPillow'
+[20:35:45] [Server thread/INFO] (Minecraft) [ItsPillow: Summoned new Weaponsmith]
+[20:35:56] [Server thread/INFO] (Minecraft) Villager VillagerEntity['Weaponsmith'/253, l='ServerLevel[world]', x=-136.24, y=64.00, z=-96.40] died, message: 'Weaponsmith was slain by ItsPillow'
